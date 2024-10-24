@@ -7,7 +7,7 @@ I embarked on my coding journey at 42, during the September 2022 Piscine. I fini
 
 ## Projets
 | Project | Description | Language | Subject | Score |
-| ------- | ----------- | -------- | ------- | ----- |
+| :-----: | :---------: | :------: | :-----: | :---: |
 | <a href="subjects/libft.subject.pdf">Libft | Implementation of basic libc functions | C | Algorithm | <img src="images/grade-125.png" alt="Libft Score" width="90"> |
 <!--
 **haoov/haoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
