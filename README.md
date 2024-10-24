@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm a student at 42 school in Paris currently working at YesWeHack as an Full Stack developper.<br>
-[![rsabbah's 42 stats](https://badge.mediaplus.ma/binary/rsabbah)](https://github.com/oakoudad/badge42)
+
+[![rsabbah's 42 stats](https://badge.mediaplus.ma/greenbinary/rsabbah)](https://github.com/oakoudad/badge42)
 <!--
 **haoov/haoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
