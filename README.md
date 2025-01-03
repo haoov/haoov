@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a student at 42 school in Paris currently working at YesWeHack as an Full Stack developper.<br>
+I'm a student at 42 school in Paris.<br>
 I embarked on my coding journey at 42, during the September 2022 Piscine. I finished the Core Curriculum in February 2024.
 # My progress at 42 school
 [![rsabbah's 42 stats](https://badge.mediaplus.ma/greenbinary/rsabbah)](https://github.com/oakoudad/badge42)
