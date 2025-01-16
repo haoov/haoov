@@ -13,6 +13,7 @@ I embarked on my coding journey at 42, during the September 2022 Piscine. I fini
 | <a href="https://github.com/haoov/ft_printf">ft_printf | Implementation of a simple `printf` | `C` | Algorithms | <img src="images/grade-125.png" alt="Libft Score" width="90"> |
 | <a href="https://github.com/haoov/Inception">Inception | Dockerisation of a wordpress application | `Bash` `Docker` | Virtualization | <img src="images/grade-125.png" alt="Libft Score" width="90"> |
 | <a href="https://github.com/haoov/ft_irc">ft_irc | Implementation of IRC server | `C++` | Server | <img src="images/grade-125.png" alt="Libft Score" width="90"> |
+| <a href="https://github.com/haoov/minishell">minishell | Implementation of a basic Bash like shell | `C` | Unix | <img src="images/grade-125.png" alt="Libft Score" width="90"> |
 <!--
 **haoov/haoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
