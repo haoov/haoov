@@ -22,3 +22,4 @@ I embarked on my coding journey at 42, during the September 2022 Piscine. I fini
 | <a href="https://github.com/haoov/cloud-1">cloud-1 | Cloud deployment (AWS) of Inception application | `Terraform` | Cloud | <img src="images/grade-100.png" alt="cloud-1 Score" width="90"> |
 | <a href="https://github.com/haoov/darkly">darkly | Finding vulnerabilities in web application | `Python` | Web Security | <img src="images/grade-125.png" alt="darkly Score" width="90"> |
 | <a href="https://github.com/haoov/Libasm">Libasm | Implementation of basic `libc` functions | `asm` | Algorithms | <img src="images/grade-125.png" alt="Libasm Score" width="90"> |
+| <a href="https://github.com/haoov/miniRT/tree/norm">miniRT | Implentation of a RayTracing program | `C` | Graphics | <img src="images/grade-125.png" alt="miniRT Score" width="90"> |
