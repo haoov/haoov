@@ -1,7 +1,8 @@
 # Hi there 👋
 
 I'm a student at 42 school in Paris.<br>
-I embarked on my coding journey at 42, during the September 2022 Piscine. I finished the Core Curriculum in February 2024.
+I embarked on my coding journey at 42, during the September 2022 Piscine. I finished the Core Curriculum in February 2024.<br>
+Following my first internship at YesWeHack, where I maintained and improved a web application for analyzing vulnerability reports, I am currently seeking opportunities in web development.<br>
 # My progress at 42 school
 [![rsabbah's 42 stats](https://badge.mediaplus.ma/greenbinary/rsabbah)](https://github.com/oakoudad/badge42)
 
