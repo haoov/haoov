@@ -23,3 +23,4 @@ I embarked on my coding journey at 42, during the September 2022 Piscine. I fini
 | <a href="https://github.com/haoov/darkly">darkly | Finding vulnerabilities in web application | `Python` | Web Security | <img src="images/grade-125.png" alt="darkly Score" width="90"> |
 | <a href="https://github.com/haoov/Libasm">Libasm | Implementation of basic `libc` functions | `asm` | Algorithms | <img src="images/grade-125.png" alt="Libasm Score" width="90"> |
 | <a href="https://github.com/haoov/miniRT/tree/norm">miniRT | Implentation of a RayTracing program | `C` | Graphics | <img src="images/grade-125.png" alt="miniRT Score" width="90"> |
+| <a href="https://github.com/haoov/push_swap">push_swap | Stack list sorting | `C` | Algorithms | <img src="images/grade-125.png" alt="push_swap Score" width="90"> |
