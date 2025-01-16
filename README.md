@@ -15,6 +15,7 @@ I embarked on my coding journey at 42, during the September 2022 Piscine. I fini
 | <a href="https://github.com/haoov/ft_irc">ft_irc | Implementation of IRC server | `C++` | Server | <img src="images/grade-125.png" alt="ft_irc Score" width="90"> |
 | <a href="https://github.com/haoov/minishell">minishell | Implementation of a basic Bash like shell | `C` | Unix | <img src="images/grade-125.png" alt="minishell Score" width="90"> |
 | <a href="https://github.com/haoov/cloud-1">cloud-1 | Cloud deployment (AWS) of Inception application | `Terraform` | Cloud | <img src="images/grade-100.png" alt="cloud-1 Score" width="90"> |
+| <a href="https://github.com/haoov/darkly">darkly | Finding vulnerabilities in web application | `python` | Web Security | <img src="images/grade-125.png" alt="darkly Score" width="90"> |
 <!--
 **haoov/haoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
